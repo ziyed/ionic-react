@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { camera, trash, close } from 'ionicons/icons';
+import { camera, trash, close, imageOutline } from 'ionicons/icons';
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonFab, IonFabButton, IonIcon, IonGrid, IonRow, 
   IonCol, IonImg, IonActionSheet } from '@ionic/react';
 import ExploreContainer from '../components/ExploreContainer';
